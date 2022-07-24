@@ -9,4 +9,4 @@
 
 代表作品:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XYZscratcher&repo=xyzstart&theme=algolia)](https://github.com/XYZscratcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XYZscratcher&repo=xyzstart&theme=algolia)](https://github.com/XYZscratcher/xyzstart)

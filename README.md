@@ -7,7 +7,7 @@
 
 ![XYZscratcher's github stats](https://github-readme-stats.vercel.app/api?username=XYZscratcher&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=26&bg_color=&theme=react&locale=cn)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZscratcher&locale=cn&theme=react)](https://github.com/XYZscratcher)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZscratcher&locale=cn&theme=react&cache_seconds=1800)](https://github.com/XYZscratcher)  
 
 代表作品:  
 

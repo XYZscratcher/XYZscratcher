@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81)](https://github.com/XYZscratcher)
 ```php
-<?php echo "hello world!"; ?>
+<?php
+while(死){
+    学习;
+} 
+?>
 ```
 ## 你好，我是来自中国的一位程序爱好者，会一点HTML，CSS，JavaScript，PHP，python。  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xyzscratcher)  

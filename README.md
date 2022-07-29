@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81)](https://github.com/XYZscratcher)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!)](https://github.com/XYZscratcher)
 ```php
 <?php
 while(死){

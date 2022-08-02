@@ -12,7 +12,7 @@ while(死){
 这是我开发的一款浏览器起始页[XYZ起始页](http://xyz.freeee.ml/)   
 我只是一个编程新手，请多指教！  
 
-![XYZscratcher's github stats](https://github-readme-stats.vercel.app/api?username=XYZscratcher&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=26&bg_color=&theme=react&locale=cn)  
+![XYZscratcher's github stats](https://github-readme-stats.vercel.app/api?username=XYZscratcher&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=26&bg_color=&theme=react&locale=cn&include_all_commits=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZscratcher&locale=cn&theme=react&cache_seconds=1800)](https://github.com/XYZscratcher)  
 

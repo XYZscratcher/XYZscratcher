@@ -18,5 +18,5 @@ while(死){
 
 代表作品:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XYZscratcher&repo=xyzstart&theme=algolia)](https://github.com/XYZscratcher/xyzstart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XYZscratcher&repo=jian.css&theme=algolia)](https://github.com/XYZscratcher/jian.css)
 

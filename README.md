@@ -6,8 +6,11 @@ while(死){
 } 
 ?>
 ```
-## 你好，我是来自中国的一位程序爱好者，会一点HTML，CSS，JavaScript，PHP，Python。  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xyzscratcher)  
+## 你好，我是来自中国的一位程序爱好者。  
+我会的东西：  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python)](https://skillicons.dev)  
+开发工具：  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)  
 这是[我的博客](https://xn--wnu286bc9czuf.rth1.one/)  
 这是我开发的一款浏览器起始页[XYZ起始页](http://xyz.freeee.ml/)   
 我只是一个编程新手，请多指教！  

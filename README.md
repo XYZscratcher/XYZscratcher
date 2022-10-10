@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!👋)](https://github.com/XYZscratcher)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&duration=4000&color=2C68F7&center=true&width=360&height=50&lines=Hi,there!👋)](https://github.com/XYZscratcher)  
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FXyzscratcher&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Xyzscratcher)
 ```php
 <?php
 while(死){

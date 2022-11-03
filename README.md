@@ -9,7 +9,7 @@ while(死){
 ```
 ## 你好，我是来自中国的一位程序爱好者。  
 我会的东西：  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,markdown)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,markdown,nodejs)](https://skillicons.dev)  
 开发工具：  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)  
 这是[我的博客](https://xn--wnu286bc9czuf.rth1.one/)  
